@@ -10,6 +10,7 @@ Then on a separate terminal tab:
 3. open Chrome dev tool and see the console
 
 #############################################
+
 UPDATE:
 1. "python -m SimpleHTTPServer" in the FoodSecurity folder
 2. go to localhost:8000
