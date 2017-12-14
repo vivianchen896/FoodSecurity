@@ -36,7 +36,7 @@ xAxis = d3.svg.axis().scale(x).tickSize(-height).tickFormat(d3.time.format('%Y')
 
 data = null;
 
-svg = d3.select("#vis").append("svg").attr("width", width).attr("height", height + paddingBottom);
+svg = d3.select("#vis").append("svg").attr("width", 1000).attr("height", height + paddingBottom);
 
 transitionTo = function(name) {
   if (name === "stream") {

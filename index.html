@@ -5,9 +5,8 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
 
-  <title>Food Insecurity</title>
+  <title>Food Waste and Insecurity</title>
   <meta name="description" content="Food insecurities by categories">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -15,10 +14,67 @@
   <link rel="stylesheet" href="css/style.css">
 
   <script src="js/libs/modernizr-2.0.6.min.js"></script>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+
+
+  <!-- D3.js -->
+  <script src="http://d3js.org/d3.v3.js"></script>
+  <script src="./d3.stretched.chord.js"></script>
+  <script src="./d3.layout.chord.sort.js"></script>
+  <!-- <script src="/js/libs/jquery-3.2.1.js"></script> -->
+
+  <!-- Open Sans & CSS -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:700,400,300' rel='stylesheet' type='text/css'>
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 12px;
+      font-weight: 400;
+      color: #525252;
+      text-align: center;
+    }
+
+    line {
+      stroke: #000;
+      stroke-width: 1.px;
+    }
+    text {
+      font-size: 8px;
+    }
+    path.chord {
+      fill-opacity: .80;
+    }
+
+    .title {
+      text-anchor: middle;
+      fill: #3B3B3B;
+      font-weight: 300;
+      font-size: 16px;
+    }
+    .titleLine {
+      stroke: #DCDCDC;
+      shape-rendering: crispEdges;
+    }
+
+    .title-h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 24px;
+        font-weight: 500;
+      line-height: 1.1;
+      color: #3B3B3B;
+    }
+
+    @media (min-width: 500px) {
+      .explanation {
+      width: 50%;
+      margin: 0 auto;
+      }
+    }
+    </style>
 </head>
 
 <body>
-
   <div id="container" class="container">
     <header>
     <h1>Food Insecurity 2001 - 2016</h1>
@@ -33,32 +89,34 @@
       </div>
       <div id="vis"></div>
     </div>
-    <footer>
-    <p>Data from <a href="https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9">NYC OpenData</a>. More information about these complaint categories can be found on the <a href="http://www.nyc.gov/apps/311/allServices.htm?requestType=Navigation">NYC 311 site</a>.</p>
-    </footer>
+    <!-- <footer> -->
+    <!-- <p>Data from <a href="https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9">NYC OpenData</a>. More information about these complaint categories can be found on the <a href="http://www.nyc.gov/apps/311/allServices.htm?requestType=Navigation">NYC 311 site</a>.</p>
+    </footer> -->
   </div> <!--! end of #container -->
+
   <div id="legend"></div>
+
+
+  <div class="title-h3">
+    Food Waste in the U.S.
+    <div id="chart"></div>
+    <div style="width: 100%;" >
+        <div class="explanation">
+        This flow chart shows the waste
+        </div>
+    </div>
+  </div>
+
 
   <script src="js/libs/jquery-1.7.2.min.js"></script>
   <script defer src="js/plugins.js"></script>
   <script src="js/libs/coffee-script.js"></script>
   <script src="js/libs/bootstrap.min.js"></script>
   <script src="js/libs/d3.v3.js"></script>
-  <script src="js/coffee/vis.js"></script>
-  <!-- <script type="text/coffeescript" src="coffee/vis.coffee"></script> -->
-
-  <!-- <script> // Change UA-XXXXX-X to be your site's ID
-    window._gaq = [['_setAccount','UA-26518241-3'],['_trackPageview'],['_trackPageLoadTime']];
-    Modernizr.load({
-      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
-    });
-  </script> -->
+  <script src="./vis.js"></script>
+  <script src="./index.js"></script>
 
 
-  <!--[if lt IE 7 ]>
-    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-  <![endif]-->
 
 </body>
 </html>
