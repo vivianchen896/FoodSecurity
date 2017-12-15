@@ -1,5 +1,3 @@
-
-
 transitionTo = function(name) {
   //global waste data
     var sum = 259.7;
@@ -27,8 +25,9 @@ Waste = function(matrix, sum, set) {
 ////////////////////////////////////////////////////////////
 //////////////////////// Set-up ////////////////////////////
 ////////////////////////////////////////////////////////////
-  var div = d3.select("body").append("div") 
-    .attr("class", "tooltip")       
+  console.log("in here")
+  var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
     .style("opacity", 0);
 
   var screenWidth = $(window).innerWidth(),
@@ -281,10 +280,10 @@ Waste = function(matrix, sum, set) {
       [d.source.index] !== ""; })
       .transition()
       .style("opacity", opacity);
-      div.transition()    
-      .duration(500)    
-      .style("opacity", 0); 
-    }); 
+      div.transition()
+      .duration(500)
+      .style("opacity", 0);
+    });
   }//fade
 
 
@@ -294,7 +293,7 @@ Waste = function(matrix, sum, set) {
             .duration(200)
             .style("opacity", .9);
     div.html(d.source.value + "%")
-            .style("left", (d3.event.pageX) + "px")   
+            .style("left", (d3.event.pageX) + "px")
             .style("top", (d3.event.pageY) + "px");
     var chosen = d;
     wrapper.selectAll("path.chord")
