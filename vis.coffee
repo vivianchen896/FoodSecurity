@@ -119,6 +119,11 @@ start = () ->
     .attr("class", "line")
     .style("stroke-opacity", 1e-6)
 
+  legend = d3.select("#legend")
+  if legend.lastChild
+    console.log "here ?"
+    legend.removeChild(legend.lastChild);
+
   # create the legend on the side of the page
   createLegend()
 
@@ -136,8 +141,6 @@ start = () ->
     .style({ 'stroke': 'black', 'fill': 'none', 'stroke-width': '1px'})
     .attr("id", "yaxis")
     .call(yAxis);
-
-
 
 
 # ---
@@ -369,7 +372,6 @@ createLegend = () ->
 # visualization framework.
 # ---
 display = (error, rawData) ->
-  # UGHHHH not working
   if state == "race"
     filterer = {"White non-Hispanic": 1, "Black non-Hispanic": 1, "Hispanic": 1, "Other": 1}
   else
@@ -411,5 +413,5 @@ $ ->
     id = d3.select(this).attr("id")
     state = id
     d3.json("data/by_race.json", display)
-    
+
   d3.json("data/by_race.json", display)
