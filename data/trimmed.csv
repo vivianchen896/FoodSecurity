@@ -1,0 +1,481 @@
+Year,Category,SubCategory,SubSubCategory,Food insecure-Percent
+2001,All households,,,10.7
+2001,Household composition,With children < 18 yrs,,16.1
+2001,Household composition,With children < 18 yrs,With children < 6 yrs,17.4
+2001,Household composition,With children < 18 yrs,Married-couple families,10.7
+2001,Household composition,With children < 18 yrs,"Female head, no spouse",31.9
+2001,Household composition,With children < 18 yrs,"Male head, no spouse",15.9
+2001,Household composition,With children < 18 yrs,Other household with child,18.1
+2001,Household composition,With no children < 18 yrs,,7.7
+2001,Household composition,With no children < 18 yrs,More than one adult,6
+2001,Household composition,With no children < 18 yrs,Women living alone,9.7
+2001,Household composition,With no children < 18 yrs,Men living alone,10.4
+2001,Household composition,With elderly,,5.5
+2001,Household composition,With elderly,Elderly living alone,6.1
+2001,Race/ethnicity of households,White non-Hispanic,,7.6
+2001,Race/ethnicity of households,Black non-Hispanic,,21.3
+2001,Race/ethnicity of households,Hispanic,,21.8
+2001,Race/ethnicity of households,Other,,10.3
+2001,Household income-to-poverty ratio,Under 1.00,,36.5
+2001,Household income-to-poverty ratio,Under 1.30,,32.3
+2001,Household income-to-poverty ratio,Under 1.85,,27.9
+2001,Household income-to-poverty ratio,1.85 and over,,4.9
+2001,Household income-to-poverty ratio,Income unknown,,7.2
+2001,Area of residence,Inside metropolitan area,,10.5
+2001,Area of residence,Inside metropolitan area,In principal cities,13.9
+2001,Area of residence,Inside metropolitan area,Not in principal cities,8.3
+2001,Area of residence,Outside metropolitan area,,11.5
+2001,Census geographic region,,Northeast,8.2
+2001,Census geographic region,,Midwest,9
+2001,Census geographic region,,South,12.3
+2001,Census geographic region,,West,11.9
+2002,All households,,,11.1
+2002,Household composition,With children < 18 yrs,,16.5
+2002,Household composition,With children < 18 yrs,With children < 6 yrs,17.8
+2002,Household composition,With children < 18 yrs,Married-couple families,10.4
+2002,Household composition,With children < 18 yrs,"Female head, no spouse",32
+2002,Household composition,With children < 18 yrs,"Male head, no spouse",21.9
+2002,Household composition,With children < 18 yrs,Other household with child,15.3
+2002,Household composition,With no children < 18 yrs,,8.1
+2002,Household composition,With no children < 18 yrs,More than one adult,6.3
+2002,Household composition,With no children < 18 yrs,Women living alone,10.5
+2002,Household composition,With no children < 18 yrs,Men living alone,11.2
+2002,Household composition,With elderly,,6.3
+2002,Household composition,With elderly,Elderly living alone,7.4
+2002,Race/ethnicity of households,White non-Hispanic,,8
+2002,Race/ethnicity of households,Black non-Hispanic,,22
+2002,Race/ethnicity of households,Hispanic,,21.7
+2002,Race/ethnicity of households,Other,,9.8
+2002,Household income-to-poverty ratio,Under 1.00,,38.1
+2002,Household income-to-poverty ratio,Under 1.30,,33.7
+2002,Household income-to-poverty ratio,Under 1.85,,29.2
+2002,Household income-to-poverty ratio,1.85 and over,,5.1
+2002,Household income-to-poverty ratio,Income unknown,,7.6
+2002,Area of residence,Inside metropolitan area,,11
+2002,Area of residence,Inside metropolitan area,In principal cities,14.4
+2002,Area of residence,Inside metropolitan area,Not in principal cities,8.8
+2002,Area of residence,Outside metropolitan area,,11.6
+2002,Census geographic region,,Northeast,9.2
+2002,Census geographic region,,Midwest,9.6
+2002,Census geographic region,,South,12.4
+2002,Census geographic region,,West,12.1
+2003,All households,,,11.2
+2003,Household composition,With children < 18 yrs,,16.7
+2003,Household composition,With children < 18 yrs,With children < 6 yrs,17.5
+2003,Household composition,With children < 18 yrs,Married-couple families,10.8
+2003,Household composition,With children < 18 yrs,"Female head, no spouse",31.7
+2003,Household composition,With children < 18 yrs,"Male head, no spouse",21.7
+2003,Household composition,With children < 18 yrs,Other household with child,20
+2003,Household composition,With no children < 18 yrs,,8.2
+2003,Household composition,With no children < 18 yrs,More than one adult,6.6
+2003,Household composition,With no children < 18 yrs,Women living alone,10.1
+2003,Household composition,With no children < 18 yrs,Men living alone,10.9
+2003,Household composition,With elderly,,6
+2003,Household composition,With elderly,Elderly living alone,6.2
+2003,Race/ethnicity of households,White non-Hispanic,,7.8
+2003,Race/ethnicity of households,Black non-Hispanic,,22.1
+2003,Race/ethnicity of households,Hispanic,,22.3
+2003,Race/ethnicity of households,Other,,10.8
+2003,Household income-to-poverty ratio,Under 1.00,,35.1
+2003,Household income-to-poverty ratio,Under 1.30,,32.5
+2003,Household income-to-poverty ratio,Under 1.85,,28.6
+2003,Household income-to-poverty ratio,1.85 and over,,4.9
+2003,Household income-to-poverty ratio,Income unknown,,7.9
+2003,Area of residence,Inside metropolitan area,,11.1
+2003,Area of residence,Inside metropolitan area,In principal cities,14.8
+2003,Area of residence,Inside metropolitan area,Not in principal cities,9
+2003,Area of residence,Outside metropolitan area,,11.6
+2003,Census geographic region,,Northeast,9.6
+2003,Census geographic region,,Midwest,9.9
+2003,Census geographic region,,South,12.4
+2003,Census geographic region,,West,12.1
+2004,All households,,,11.9
+2004,Household composition,With children < 18 yrs,,17.6
+2004,Household composition,With children < 18 yrs,With children < 6 yrs,18.5
+2004,Household composition,With children < 18 yrs,Married-couple families,11.6
+2004,Household composition,With children < 18 yrs,"Female head, no spouse",33
+2004,Household composition,With children < 18 yrs,"Male head, no spouse",22.2
+2004,Household composition,With children < 18 yrs,Other household with child,17.7
+2004,Household composition,With no children < 18 yrs,,8.9
+2004,Household composition,With no children < 18 yrs,More than one adult,6.7
+2004,Household composition,With no children < 18 yrs,Women living alone,11.8
+2004,Household composition,With no children < 18 yrs,Men living alone,12.3
+2004,Household composition,With elderly,,6.5
+2004,Household composition,With elderly,Elderly living alone,7.3
+2004,Race/ethnicity of households,White non-Hispanic,,8.6
+2004,Race/ethnicity of households,Black non-Hispanic,,23.7
+2004,Race/ethnicity of households,Hispanic,,21.7
+2004,Race/ethnicity of households,Other,,11.1
+2004,Household income-to-poverty ratio,Under 1.00,,36.8
+2004,Household income-to-poverty ratio,Under 1.30,,34
+2004,Household income-to-poverty ratio,Under 1.85,,29.8
+2004,Household income-to-poverty ratio,1.85 and over,,5.4
+2004,Household income-to-poverty ratio,Income unknown,,7.9
+2004,Area of residence,Inside metropolitan area,,11.7
+2004,Area of residence,Inside metropolitan area,In principal cities,15.4
+2004,Area of residence,Inside metropolitan area,Not in principal cities,9
+2004,Area of residence,Outside metropolitan area,,13.1
+2004,Census geographic region,,Northeast,9.7
+2004,Census geographic region,,Midwest,10.9
+2004,Census geographic region,,South,13.3
+2004,Census geographic region,,West,12.8
+2005,All households,,,11
+2005,Household composition,With children < 18 yrs,,15.6
+2005,Household composition,With children < 18 yrs,With children < 6 yrs,16.7
+2005,Household composition,With children < 18 yrs,Married-couple families,9.9
+2005,Household composition,With children < 18 yrs,"Female head, no spouse",30.8
+2005,Household composition,With children < 18 yrs,"Male head, no spouse",17.9
+2005,Household composition,With children < 18 yrs,Other household with child,19
+2005,Household composition,With no children < 18 yrs,,8.5
+2005,Household composition,With no children < 18 yrs,More than one adult,6.7
+2005,Household composition,With no children < 18 yrs,Women living alone,11
+2005,Household composition,With no children < 18 yrs,Men living alone,11.5
+2005,Household composition,With elderly,,6
+2005,Household composition,With elderly,Elderly living alone,6.4
+2005,Race/ethnicity of households,White non-Hispanic,,8.2
+2005,Race/ethnicity of households,Black non-Hispanic,,22.4
+2005,Race/ethnicity of households,Hispanic,,17.9
+2005,Race/ethnicity of households,Other,,9.6
+2005,Household income-to-poverty ratio,Under 1.00,,36
+2005,Household income-to-poverty ratio,Under 1.30,,33.2
+2005,Household income-to-poverty ratio,Under 1.85,,28.3
+2005,Household income-to-poverty ratio,1.85 and over,,5.2
+2005,Household income-to-poverty ratio,Income unknown,,6.7
+2005,Area of residence,Inside metropolitan area,,10.8
+2005,Area of residence,Inside metropolitan area,In principal cities,13.5
+2005,Area of residence,Inside metropolitan area,Not in principal cities,8.7
+2005,Area of residence,Outside metropolitan area,,12
+2005,Census geographic region,,Northeast,9.1
+2005,Census geographic region,,Midwest,11.1
+2005,Census geographic region,,South,12
+2005,Census geographic region,,West,10.8
+2006,All households,,,10.9
+2006,Household composition,With children < 18 yrs,,15.6
+2006,Household composition,With children < 18 yrs,With children < 6 yrs,16.7
+2006,Household composition,With children < 18 yrs,Married-couple families,10.1
+2006,Household composition,With children < 18 yrs,"Female head, no spouse",30.4
+2006,Household composition,With children < 18 yrs,"Male head, no spouse",17
+2006,Household composition,With children < 18 yrs,Other household with child,17.5
+2006,Household composition,With no children < 18 yrs,,8.5
+2006,Household composition,With no children < 18 yrs,More than one adult,6.5
+2006,Household composition,With no children < 18 yrs,Women living alone,11.3
+2006,Household composition,With no children < 18 yrs,Men living alone,11.4
+2006,Household composition,With elderly,,6
+2006,Household composition,With elderly,Elderly living alone,5.9
+2006,Race/ethnicity of households,White non-Hispanic,,7.8
+2006,Race/ethnicity of households,Black non-Hispanic,,21.8
+2006,Race/ethnicity of households,Hispanic,,19.5
+2006,Race/ethnicity of households,Other,,9.6
+2006,Household income-to-poverty ratio,Under 1.00,,36.3
+2006,Household income-to-poverty ratio,Under 1.30,,33.1
+2006,Household income-to-poverty ratio,Under 1.85,,27.3
+2006,Household income-to-poverty ratio,1.85 and over,,5.3
+2006,Household income-to-poverty ratio,Income unknown,,7.1
+2006,Area of residence,Inside metropolitan area,,10.7
+2006,Area of residence,Inside metropolitan area,In principal cities,13.2
+2006,Area of residence,Inside metropolitan area,Not in principal cities,9
+2006,Area of residence,Outside metropolitan area,,12
+2006,Census geographic region,,Northeast,9.2
+2006,Census geographic region,,Midwest,10.7
+2006,Census geographic region,,South,12.3
+2006,Census geographic region,,West,10.5
+2007,All households,,,11.1
+2007,Household composition,With children < 18 yrs,,15.8
+2007,Household composition,With children < 18 yrs,With children < 6 yrs,17.1
+2007,Household composition,With children < 18 yrs,Married-couple families,10.5
+2007,Household composition,With children < 18 yrs,"Female head, no spouse",30.2
+2007,Household composition,With children < 18 yrs,"Male head, no spouse",18
+2007,Household composition,With children < 18 yrs,Other household with child,16
+2007,Household composition,With no children < 18 yrs,,8.7
+2007,Household composition,With no children < 18 yrs,More than one adult,6.7
+2007,Household composition,With no children < 18 yrs,Women living alone,11.7
+2007,Household composition,With no children < 18 yrs,Men living alone,11.2
+2007,Household composition,With elderly,,6.5
+2007,Household composition,With elderly,Elderly living alone,7.3
+2007,Race/ethnicity of households,White non-Hispanic,,7.9
+2007,Race/ethnicity of households,Black non-Hispanic,,22.2
+2007,Race/ethnicity of households,Hispanic,,20.1
+2007,Race/ethnicity of households,Other,,9.6
+2007,Household income-to-poverty ratio,Under 1.00,,37.7
+2007,Household income-to-poverty ratio,Under 1.30,,34.2
+2007,Household income-to-poverty ratio,Under 1.85,,28.7
+2007,Household income-to-poverty ratio,1.85 and over,,5.5
+2007,Household income-to-poverty ratio,Income unknown,,6.4
+2007,Area of residence,Inside metropolitan area,,11
+2007,Area of residence,Inside metropolitan area,In principal cities,13.5
+2007,Area of residence,Inside metropolitan area,Not in principal cities,9
+2007,Area of residence,Outside metropolitan area,,11.7
+2007,Census geographic region,,Northeast,10.3
+2007,Census geographic region,,Midwest,10.7
+2007,Census geographic region,,South,11.8
+2007,Census geographic region,,West,11
+2008,All households,,,14.6
+2008,Household composition,With children < 18 yrs,,21
+2008,Household composition,With children < 18 yrs,With children < 6 yrs,22.3
+2008,Household composition,With children < 18 yrs,Married-couple families,14.3
+2008,Household composition,With children < 18 yrs,"Female head, no spouse",37.2
+2008,Household composition,With children < 18 yrs,"Male head, no spouse",27.6
+2008,Household composition,With children < 18 yrs,Other household with child,29.2
+2008,Household composition,With no children < 18 yrs,,11.3
+2008,Household composition,With no children < 18 yrs,More than one adult,9.1
+2008,Household composition,With no children < 18 yrs,Women living alone,14.9
+2008,Household composition,With no children < 18 yrs,Men living alone,14
+2008,Household composition,With elderly,,8.1
+2008,Household composition,With elderly,Elderly living alone,8.8
+2008,Race/ethnicity of households,White non-Hispanic,,10.7
+2008,Race/ethnicity of households,Black non-Hispanic,,25.7
+2008,Race/ethnicity of households,Hispanic,,26.9
+2008,Race/ethnicity of households,Other,,13.7
+2008,Household income-to-poverty ratio,Under 1.00,,42.2
+2008,Household income-to-poverty ratio,Under 1.30,,39
+2008,Household income-to-poverty ratio,Under 1.85,,33.9
+2008,Household income-to-poverty ratio,1.85 and over,,7.7
+2008,Household income-to-poverty ratio,Income unknown,,9.7
+2008,Area of residence,Inside metropolitan area,,14.7
+2008,Area of residence,Inside metropolitan area,In principal cities,17.7
+2008,Area of residence,Inside metropolitan area,Not in principal cities,12.7
+2008,Area of residence,Outside metropolitan area,,14.2
+2008,Census geographic region,,Northeast,12.8
+2008,Census geographic region,,Midwest,14
+2008,Census geographic region,,South,15.9
+2008,Census geographic region,,West,14.5
+2009,All households,,,14.7
+2009,Household composition,With children < 18 yrs,,21.3
+2009,Household composition,With children < 18 yrs,With children < 6 yrs,22.9
+2009,Household composition,With children < 18 yrs,Married-couple families,14.7
+2009,Household composition,With children < 18 yrs,"Female head, no spouse",36.6
+2009,Household composition,With children < 18 yrs,"Male head, no spouse",27.8
+2009,Household composition,With children < 18 yrs,Other household with child,32.5
+2009,Household composition,With no children < 18 yrs,,11.4
+2009,Household composition,With no children < 18 yrs,More than one adult,9.2
+2009,Household composition,With no children < 18 yrs,Women living alone,14.7
+2009,Household composition,With no children < 18 yrs,Men living alone,14.5
+2009,Household composition,With elderly,,7.5
+2009,Household composition,With elderly,Elderly living alone,7.8
+2009,Race/ethnicity of households,White non-Hispanic,,11
+2009,Race/ethnicity of households,Black non-Hispanic,,24.9
+2009,Race/ethnicity of households,Hispanic,,26.9
+2009,Race/ethnicity of households,Other,,13.2
+2009,Household income-to-poverty ratio,Under 1.00,,43
+2009,Household income-to-poverty ratio,Under 1.30,,39.7
+2009,Household income-to-poverty ratio,Under 1.85,,34.8
+2009,Household income-to-poverty ratio,1.85 and over,,7.6
+2009,Household income-to-poverty ratio,Income unknown,,9
+2009,Area of residence,Inside metropolitan area,,14.8
+2009,Area of residence,Inside metropolitan area,In principal cities,17.2
+2009,Area of residence,Inside metropolitan area,Not in principal cities,13.2
+2009,Area of residence,Outside metropolitan area,,14.2
+2009,Census geographic region,,Northeast,12.2
+2009,Census geographic region,,Midwest,13.9
+2009,Census geographic region,,South,15.9
+2009,Census geographic region,,West,15.5
+2010,All households,,,14.5
+2010,Household composition,With children < 18 yrs,,20.2
+2010,Household composition,With children < 18 yrs,With children < 6 yrs,21.8
+2010,Household composition,With children < 18 yrs,Married-couple families,13.8
+2010,Household composition,With children < 18 yrs,"Female head, no spouse",35.1
+2010,Household composition,With children < 18 yrs,"Male head, no spouse",25.4
+2010,Household composition,With children < 18 yrs,Other household with child,20.8
+2010,Household composition,With no children < 18 yrs,,11.7
+2010,Household composition,With no children < 18 yrs,More than one adult,9.9
+2010,Household composition,With no children < 18 yrs,Women living alone,13.7
+2010,Household composition,With no children < 18 yrs,Men living alone,15
+2010,Household composition,With elderly,,7.9
+2010,Household composition,With elderly,Elderly living alone,8
+2010,Race/ethnicity of households,White non-Hispanic,,10.8
+2010,Race/ethnicity of households,Black non-Hispanic,,25.1
+2010,Race/ethnicity of households,Hispanic,,26.2
+2010,Race/ethnicity of households,Other,,12.7
+2010,Household income-to-poverty ratio,Under 1.00,,40.2
+2010,Household income-to-poverty ratio,Under 1.30,,37.6
+2010,Household income-to-poverty ratio,Under 1.85,,33.8
+2010,Household income-to-poverty ratio,1.85 and over,,7.4
+2010,Household income-to-poverty ratio,Income unknown,,9.3
+2010,Area of residence,Inside metropolitan area,,14.5
+2010,Area of residence,Inside metropolitan area,In principal cities,17
+2010,Area of residence,Inside metropolitan area,Not in principal cities,12.6
+2010,Area of residence,Outside metropolitan area,,14.7
+2010,Census geographic region,,Northeast,12.4
+2010,Census geographic region,,Midwest,13.3
+2010,Census geographic region,,South,16
+2010,Census geographic region,,West,15.1
+2011,All households,,,14.9
+2011,Household composition,With children < 18 yrs,,20.6
+2011,Household composition,With children < 18 yrs,With children < 6 yrs,21.9
+2011,Household composition,With children < 18 yrs,Married-couple families,13.9
+2011,Household composition,With children < 18 yrs,"Female head, no spouse",36.8
+2011,Household composition,With children < 18 yrs,"Male head, no spouse",24.9
+2011,Household composition,With children < 18 yrs,Other household with child,19
+2011,Household composition,With no children < 18 yrs,,12.2
+2011,Household composition,With no children < 18 yrs,More than one adult,9.9
+2011,Household composition,With no children < 18 yrs,Women living alone,15.6
+2011,Household composition,With no children < 18 yrs,Men living alone,15.5
+2011,Household composition,With elderly,,8.4
+2011,Household composition,With elderly,Elderly living alone,8.8
+2011,Race/ethnicity of households,White non-Hispanic,,11.4
+2011,Race/ethnicity of households,Black non-Hispanic,,25.1
+2011,Race/ethnicity of households,Hispanic,,26.2
+2011,Race/ethnicity of households,Other,,12.7
+2011,Household income-to-poverty ratio,Under 1.00,,41.1
+2011,Household income-to-poverty ratio,Under 1.30,,37.6
+2011,Household income-to-poverty ratio,Under 1.85,,34.5
+2011,Household income-to-poverty ratio,1.85 and over,,7
+2011,Household income-to-poverty ratio,Income unknown,,10.3
+2011,Area of residence,Inside metropolitan area,,14.9
+2011,Area of residence,Inside metropolitan area,In principal cities,17.7
+2011,Area of residence,Inside metropolitan area,Not in principal cities,13.2
+2011,Area of residence,Outside metropolitan area,,15.4
+2011,Census geographic region,,Northeast,13.5
+2011,Census geographic region,,Midwest,13.5
+2011,Census geographic region,,South,16
+2011,Census geographic region,,West,15.8
+2012,All households,,,14.5
+2012,Household composition,With children < 18 yrs,,20
+2012,Household composition,With children < 18 yrs,With children < 6 yrs,20.5
+2012,Household composition,With children < 18 yrs,Married-couple families,13.2
+2012,Household composition,With children < 18 yrs,"Female head, no spouse",35.4
+2012,Household composition,With children < 18 yrs,"Male head, no spouse",23.6
+2012,Household composition,With children < 18 yrs,Other household with child,24.5
+2012,Household composition,With no children < 18 yrs,,11.9
+2012,Household composition,With no children < 18 yrs,More than one adult,9.8
+2012,Household composition,With no children < 18 yrs,Women living alone,15.3
+2012,Household composition,With no children < 18 yrs,Men living alone,14.7
+2012,Household composition,With elderly,,8.8
+2012,Household composition,With elderly,Elderly living alone,9.1
+2012,Race/ethnicity of households,White non-Hispanic,,11.2
+2012,Race/ethnicity of households,Black non-Hispanic,,24.6
+2012,Race/ethnicity of households,Hispanic,,23.3
+2012,Race/ethnicity of households,Other,,13
+2012,Household income-to-poverty ratio,Under 1.00,,40.9
+2012,Household income-to-poverty ratio,Under 1.30,,38.2
+2012,Household income-to-poverty ratio,Under 1.85,,34.3
+2012,Household income-to-poverty ratio,1.85 and over,,6.8
+2012,Household income-to-poverty ratio,Income unknown,,9.7
+2012,Area of residence,Inside metropolitan area,,14.3
+2012,Area of residence,Inside metropolitan area,In principal cities,16.9
+2012,Area of residence,Inside metropolitan area,Not in principal cities,12.7
+2012,Area of residence,Outside metropolitan area,,15.5
+2012,Census geographic region,,Northeast,11.9
+2012,Census geographic region,,Midwest,14.2
+2012,Census geographic region,,South,16
+2012,Census geographic region,,West,14.4
+2013,All households,,,14.3
+2013,Household composition,With children < 18 yrs,,19.5
+2013,Household composition,With children < 18 yrs,With children < 6 yrs,20.9
+2013,Household composition,With children < 18 yrs,Married-couple families,12.8
+2013,Household composition,With children < 18 yrs,"Female head, no spouse",34.4
+2013,Household composition,With children < 18 yrs,"Male head, no spouse",23.1
+2013,Household composition,With children < 18 yrs,Other household with child,30.7
+2013,Household composition,With no children < 18 yrs,,11.9
+2013,Household composition,With no children < 18 yrs,More than one adult,9.9
+2013,Household composition,With no children < 18 yrs,Women living alone,15.2
+2013,Household composition,With no children < 18 yrs,Men living alone,14.6
+2013,Household composition,With elderly,,8.7
+2013,Household composition,With elderly,Elderly living alone,9
+2013,Race/ethnicity of households,White non-Hispanic,,10.6
+2013,Race/ethnicity of households,Black non-Hispanic,,26.1
+2013,Race/ethnicity of households,Hispanic,,23.7
+2013,Race/ethnicity of households,Other,,11.7
+2013,Household income-to-poverty ratio,Under 1.00,,42.1
+2013,Household income-to-poverty ratio,Under 1.30,,38.9
+2013,Household income-to-poverty ratio,Under 1.85,,34.8
+2013,Household income-to-poverty ratio,1.85 and over,,6.7
+2013,Household income-to-poverty ratio,Income unknown,,9.8
+2013,Area of residence,Inside metropolitan area,,14.1
+2013,Area of residence,Inside metropolitan area,In principal cities,16.7
+2013,Area of residence,Inside metropolitan area,Not in principal cities,12.1
+2013,Area of residence,Outside metropolitan area,,15.1
+2013,Census geographic region,,Northeast,12.4
+2013,Census geographic region,,Midwest,13.6
+2013,Census geographic region,,South,15.7
+2013,Census geographic region,,West,14.1
+2014,All households,,,14
+2014,Household composition,With children < 18 yrs,,19.2
+2014,Household composition,With children < 18 yrs,With children < 6 yrs,19.9
+2014,Household composition,With children < 18 yrs,Married-couple families,12.4
+2014,Household composition,With children < 18 yrs,"Female head, no spouse",35.3
+2014,Household composition,With children < 18 yrs,"Male head, no spouse",21.7
+2014,Household composition,With children < 18 yrs,Other household with child,24.4
+2014,Household composition,With no children < 18 yrs,,11.7
+2014,Household composition,With no children < 18 yrs,More than one adult,9.7
+2014,Household composition,With no children < 18 yrs,Women living alone,15.3
+2014,Household composition,With no children < 18 yrs,Men living alone,14
+2014,Household composition,With elderly,,8.9
+2014,Household composition,With elderly,Elderly living alone,9.3
+2014,Race/ethnicity of households,White non-Hispanic,,10.5
+2014,Race/ethnicity of households,Black non-Hispanic,,26.1
+2014,Race/ethnicity of households,Hispanic,,22.4
+2014,Race/ethnicity of households,Other,,11.8
+2014,Household income-to-poverty ratio,Under 1.00,,39.5
+2014,Household income-to-poverty ratio,Under 1.30,,37.4
+2014,Household income-to-poverty ratio,Under 1.85,,33.7
+2014,Household income-to-poverty ratio,1.85 and over,,6.3
+2014,Household income-to-poverty ratio,Income unknown,,9.8
+2014,Area of residence,Inside metropolitan area,,13.5
+2014,Area of residence,Inside metropolitan area,In principal cities,15.7
+2014,Area of residence,Inside metropolitan area,Not in principal cities,11.8
+2014,Area of residence,Outside metropolitan area,,17.1
+2014,Census geographic region,,Northeast,13.3
+2014,Census geographic region,,Midwest,13.8
+2014,Census geographic region,,South,15.1
+2014,Census geographic region,,West,13.1
+2015,All households,,,12.7
+2015,Household composition,With children < 18 yrs,,16.6
+2015,Household composition,With children < 18 yrs,With children < 6 yrs,16.9
+2015,Household composition,With children < 18 yrs,Married-couple families,10.2
+2015,Household composition,With children < 18 yrs,"Female head, no spouse",30.3
+2015,Household composition,With children < 18 yrs,"Male head, no spouse",22.4
+2015,Household composition,With children < 18 yrs,Other household with child,26.2
+2015,Household composition,With no children < 18 yrs,,10.9
+2015,Household composition,With no children < 18 yrs,More than one adult,8.5
+2015,Household composition,With no children < 18 yrs,Women living alone,14.7
+2015,Household composition,With no children < 18 yrs,Men living alone,14
+2015,Household composition,With elderly,,8.3
+2015,Household composition,With elderly,Elderly living alone,9.2
+2015,Race/ethnicity of households,White non-Hispanic,,10
+2015,Race/ethnicity of households,Black non-Hispanic,,21.5
+2015,Race/ethnicity of households,Hispanic,,19.1
+2015,Race/ethnicity of households,Other,,10.3
+2015,Household income-to-poverty ratio,Under 1.00,,38.3
+2015,Household income-to-poverty ratio,Under 1.30,,36.8
+2015,Household income-to-poverty ratio,Under 1.85,,32.8
+2015,Household income-to-poverty ratio,1.85 and over,,5.8
+2015,Household income-to-poverty ratio,Income unknown,,8.3
+2015,Area of residence,Inside metropolitan area,,12.2
+2015,Area of residence,Inside metropolitan area,In principal cities,14.1
+2015,Area of residence,Inside metropolitan area,Not in principal cities,10.4
+2015,Area of residence,Outside metropolitan area,,15.4
+2015,Census geographic region,,Northeast,11.9
+2015,Census geographic region,,Midwest,12.8
+2015,Census geographic region,,South,13.3
+2015,Census geographic region,,West,12.1
+2016,All households,,,12.3
+2016,Household composition,With children < 18 yrs,,16.5
+2016,Household composition,With children < 18 yrs,With children < 6 yrs,16.6
+2016,Household composition,With children < 18 yrs,Married-couple families,9.9
+2016,Household composition,With children < 18 yrs,"Female head, no spouse",31.6
+2016,Household composition,With children < 18 yrs,"Male head, no spouse",21.7
+2016,Household composition,With children < 18 yrs,Other household with child,22.2
+2016,Household composition,With no children < 18 yrs,,10.5
+2016,Household composition,With no children < 18 yrs,More than one adult,8
+2016,Household composition,With no children < 18 yrs,Women living alone,13.9
+2016,Household composition,With no children < 18 yrs,Men living alone,14.3
+2016,Household composition,With elderly,,7.8
+2016,Household composition,With elderly,Elderly living alone,8.9
+2016,Race/ethnicity of households,White non-Hispanic,,9.3
+2016,Race/ethnicity of households,Black non-Hispanic,,22.5
+2016,Race/ethnicity of households,Hispanic,,18.5
+2016,Race/ethnicity of households,Other,,10.7
+2016,Household income-to-poverty ratio,Under 1.00,,38.3
+2016,Household income-to-poverty ratio,Under 1.30,,35.7
+2016,Household income-to-poverty ratio,Under 1.85,,31.6
+2016,Household income-to-poverty ratio,1.85 and over,,5.6
+2016,Household income-to-poverty ratio,Income unknown,,8.8
+2016,Area of residence,Inside metropolitan area,,11.8
+2016,Area of residence,Inside metropolitan area,In principal cities,14.2
+2016,Area of residence,Inside metropolitan area,Not in principal cities,9.5
+2016,Area of residence,Outside metropolitan area,,15
+2016,Census geographic region,,Northeast,10.8
+2016,Census geographic region,,Midwest,12.2
+2016,Census geographic region,,South,13.5
+2016,Census geographic region,,West,11.5

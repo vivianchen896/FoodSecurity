@@ -1,0 +1,3362 @@
+[
+  {
+    "Year": 2001,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 16.1
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 17.4
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 31.9
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 15.9
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 18.1
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.7
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 9.7
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 10.4
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.5
+  },
+  {
+    "Year": 2001,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 6.1
+  },
+  {
+    "Year": 2001,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.6
+  },
+  {
+    "Year": 2001,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.3
+  },
+  {
+    "Year": 2001,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.8
+  },
+  {
+    "Year": 2001,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.3
+  },
+  {
+    "Year": 2001,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 36.5
+  },
+  {
+    "Year": 2001,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 32.3
+  },
+  {
+    "Year": 2001,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 27.9
+  },
+  {
+    "Year": 2001,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 4.9
+  },
+  {
+    "Year": 2001,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.2
+  },
+  {
+    "Year": 2001,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2001,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 13.9
+  },
+  {
+    "Year": 2001,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 8.3
+  },
+  {
+    "Year": 2001,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.5
+  },
+  {
+    "Year": 2001,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 8.2
+  },
+  {
+    "Year": 2001,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2001,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 12.3
+  },
+  {
+    "Year": 2001,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 11.9
+  },
+  {
+    "Year": 2002,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.1
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 16.5
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 17.8
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 10.4
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 32
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 21.9
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 15.3
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.1
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6.3
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 11.2
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.3
+  },
+  {
+    "Year": 2002,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 7.4
+  },
+  {
+    "Year": 2002,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8
+  },
+  {
+    "Year": 2002,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22
+  },
+  {
+    "Year": 2002,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2002,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.8
+  },
+  {
+    "Year": 2002,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 38.1
+  },
+  {
+    "Year": 2002,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 33.7
+  },
+  {
+    "Year": 2002,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 29.2
+  },
+  {
+    "Year": 2002,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.1
+  },
+  {
+    "Year": 2002,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.6
+  },
+  {
+    "Year": 2002,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2002,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 14.4
+  },
+  {
+    "Year": 2002,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 8.8
+  },
+  {
+    "Year": 2002,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.6
+  },
+  {
+    "Year": 2002,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 9.2
+  },
+  {
+    "Year": 2002,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2002,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 12.4
+  },
+  {
+    "Year": 2002,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 12.1
+  },
+  {
+    "Year": 2003,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.2
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 16.7
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 17.5
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 31.7
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 20
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.2
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6.6
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 10.1
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 10.9
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6
+  },
+  {
+    "Year": 2003,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 6.2
+  },
+  {
+    "Year": 2003,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.8
+  },
+  {
+    "Year": 2003,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22.1
+  },
+  {
+    "Year": 2003,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22.3
+  },
+  {
+    "Year": 2003,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2003,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 35.1
+  },
+  {
+    "Year": 2003,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 32.5
+  },
+  {
+    "Year": 2003,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 28.6
+  },
+  {
+    "Year": 2003,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 4.9
+  },
+  {
+    "Year": 2003,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.9
+  },
+  {
+    "Year": 2003,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.1
+  },
+  {
+    "Year": 2003,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 14.8
+  },
+  {
+    "Year": 2003,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2003,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.6
+  },
+  {
+    "Year": 2003,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2003,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 9.9
+  },
+  {
+    "Year": 2003,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 12.4
+  },
+  {
+    "Year": 2003,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 12.1
+  },
+  {
+    "Year": 2004,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.9
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 17.6
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 18.5
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 11.6
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 33
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 22.2
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 17.7
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.9
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6.7
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 11.8
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 12.3
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.5
+  },
+  {
+    "Year": 2004,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 7.3
+  },
+  {
+    "Year": 2004,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.6
+  },
+  {
+    "Year": 2004,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 23.7
+  },
+  {
+    "Year": 2004,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2004,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.1
+  },
+  {
+    "Year": 2004,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 36.8
+  },
+  {
+    "Year": 2004,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 34
+  },
+  {
+    "Year": 2004,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 29.8
+  },
+  {
+    "Year": 2004,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.4
+  },
+  {
+    "Year": 2004,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.9
+  },
+  {
+    "Year": 2004,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2004,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 15.4
+  },
+  {
+    "Year": 2004,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2004,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 13.1
+  },
+  {
+    "Year": 2004,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 9.7
+  },
+  {
+    "Year": 2004,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 10.9
+  },
+  {
+    "Year": 2004,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 13.3
+  },
+  {
+    "Year": 2004,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 12.8
+  },
+  {
+    "Year": 2005,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.6
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 16.7
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 9.9
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 30.8
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 17.9
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 19
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.5
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6.7
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 11.5
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6
+  },
+  {
+    "Year": 2005,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 6.4
+  },
+  {
+    "Year": 2005,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.2
+  },
+  {
+    "Year": 2005,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22.4
+  },
+  {
+    "Year": 2005,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 17.9
+  },
+  {
+    "Year": 2005,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2005,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 36
+  },
+  {
+    "Year": 2005,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 33.2
+  },
+  {
+    "Year": 2005,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 28.3
+  },
+  {
+    "Year": 2005,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.2
+  },
+  {
+    "Year": 2005,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.7
+  },
+  {
+    "Year": 2005,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2005,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 13.5
+  },
+  {
+    "Year": 2005,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 8.7
+  },
+  {
+    "Year": 2005,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12
+  },
+  {
+    "Year": 2005,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 9.1
+  },
+  {
+    "Year": 2005,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 11.1
+  },
+  {
+    "Year": 2005,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 12
+  },
+  {
+    "Year": 2005,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2006,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.9
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.6
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 16.7
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 10.1
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 30.4
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 17
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 17.5
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.5
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6.5
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 11.3
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 11.4
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6
+  },
+  {
+    "Year": 2006,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 5.9
+  },
+  {
+    "Year": 2006,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.8
+  },
+  {
+    "Year": 2006,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.8
+  },
+  {
+    "Year": 2006,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 19.5
+  },
+  {
+    "Year": 2006,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2006,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 36.3
+  },
+  {
+    "Year": 2006,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 33.1
+  },
+  {
+    "Year": 2006,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 27.3
+  },
+  {
+    "Year": 2006,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.3
+  },
+  {
+    "Year": 2006,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.1
+  },
+  {
+    "Year": 2006,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2006,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 13.2
+  },
+  {
+    "Year": 2006,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2006,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12
+  },
+  {
+    "Year": 2006,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 9.2
+  },
+  {
+    "Year": 2006,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2006,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 12.3
+  },
+  {
+    "Year": 2006,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2007,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.1
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.8
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 17.1
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 30.2
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 18
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 16
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 6.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 11.2
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.5
+  },
+  {
+    "Year": 2007,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 7.3
+  },
+  {
+    "Year": 2007,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.9
+  },
+  {
+    "Year": 2007,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22.2
+  },
+  {
+    "Year": 2007,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 20.1
+  },
+  {
+    "Year": 2007,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2007,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 37.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 34.2
+  },
+  {
+    "Year": 2007,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 28.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.5
+  },
+  {
+    "Year": 2007,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.4
+  },
+  {
+    "Year": 2007,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2007,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 13.5
+  },
+  {
+    "Year": 2007,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2007,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 10.3
+  },
+  {
+    "Year": 2007,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2007,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 11.8
+  },
+  {
+    "Year": 2007,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2008,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.6
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 22.3
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 14.3
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 37.2
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 27.6
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 29.2
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.3
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.1
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 14.9
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.1
+  },
+  {
+    "Year": 2008,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 8.8
+  },
+  {
+    "Year": 2008,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 25.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 26.9
+  },
+  {
+    "Year": 2008,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 13.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 42.2
+  },
+  {
+    "Year": 2008,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 39
+  },
+  {
+    "Year": 2008,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 33.9
+  },
+  {
+    "Year": 2008,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 17.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2008,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.2
+  },
+  {
+    "Year": 2008,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 12.8
+  },
+  {
+    "Year": 2008,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 14
+  },
+  {
+    "Year": 2008,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 15.9
+  },
+  {
+    "Year": 2008,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 14.5
+  },
+  {
+    "Year": 2009,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.3
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 22.9
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 36.6
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 27.8
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 32.5
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.4
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.2
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14.5
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.5
+  },
+  {
+    "Year": 2009,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 7.8
+  },
+  {
+    "Year": 2009,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2009,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 24.9
+  },
+  {
+    "Year": 2009,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 26.9
+  },
+  {
+    "Year": 2009,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 13.2
+  },
+  {
+    "Year": 2009,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 43
+  },
+  {
+    "Year": 2009,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 39.7
+  },
+  {
+    "Year": 2009,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 34.8
+  },
+  {
+    "Year": 2009,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.6
+  },
+  {
+    "Year": 2009,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2009,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.8
+  },
+  {
+    "Year": 2009,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 17.2
+  },
+  {
+    "Year": 2009,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 13.2
+  },
+  {
+    "Year": 2009,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.2
+  },
+  {
+    "Year": 2009,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 12.2
+  },
+  {
+    "Year": 2009,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 13.9
+  },
+  {
+    "Year": 2009,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 15.9
+  },
+  {
+    "Year": 2009,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 15.5
+  },
+  {
+    "Year": 2010,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.5
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 20.2
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 21.8
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 13.8
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 35.1
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 25.4
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 20.8
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.9
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 13.7
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 15
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.9
+  },
+  {
+    "Year": 2010,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 8
+  },
+  {
+    "Year": 2010,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2010,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 25.1
+  },
+  {
+    "Year": 2010,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 26.2
+  },
+  {
+    "Year": 2010,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2010,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 40.2
+  },
+  {
+    "Year": 2010,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 37.6
+  },
+  {
+    "Year": 2010,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 33.8
+  },
+  {
+    "Year": 2010,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.4
+  },
+  {
+    "Year": 2010,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.3
+  },
+  {
+    "Year": 2010,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.5
+  },
+  {
+    "Year": 2010,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 17
+  },
+  {
+    "Year": 2010,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 12.6
+  },
+  {
+    "Year": 2010,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2010,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 12.4
+  },
+  {
+    "Year": 2010,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 13.3
+  },
+  {
+    "Year": 2010,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 16
+  },
+  {
+    "Year": 2010,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 15.1
+  },
+  {
+    "Year": 2011,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.9
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 20.6
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 21.9
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 13.9
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 36.8
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 24.9
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 19
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12.2
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.9
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 15.6
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 15.5
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.4
+  },
+  {
+    "Year": 2011,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 8.8
+  },
+  {
+    "Year": 2011,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.4
+  },
+  {
+    "Year": 2011,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 25.1
+  },
+  {
+    "Year": 2011,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 26.2
+  },
+  {
+    "Year": 2011,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2011,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 41.1
+  },
+  {
+    "Year": 2011,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 37.6
+  },
+  {
+    "Year": 2011,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 34.5
+  },
+  {
+    "Year": 2011,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7
+  },
+  {
+    "Year": 2011,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.3
+  },
+  {
+    "Year": 2011,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.9
+  },
+  {
+    "Year": 2011,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 17.7
+  },
+  {
+    "Year": 2011,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 13.2
+  },
+  {
+    "Year": 2011,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.4
+  },
+  {
+    "Year": 2011,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 13.5
+  },
+  {
+    "Year": 2011,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 13.5
+  },
+  {
+    "Year": 2011,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 16
+  },
+  {
+    "Year": 2011,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 15.8
+  },
+  {
+    "Year": 2012,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.5
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 20
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 20.5
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 13.2
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 35.4
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 23.6
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 24.5
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.9
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.8
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 15.3
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.8
+  },
+  {
+    "Year": 2012,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 9.1
+  },
+  {
+    "Year": 2012,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.2
+  },
+  {
+    "Year": 2012,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 24.6
+  },
+  {
+    "Year": 2012,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 23.3
+  },
+  {
+    "Year": 2012,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 13
+  },
+  {
+    "Year": 2012,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 40.9
+  },
+  {
+    "Year": 2012,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 38.2
+  },
+  {
+    "Year": 2012,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 34.3
+  },
+  {
+    "Year": 2012,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.8
+  },
+  {
+    "Year": 2012,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.7
+  },
+  {
+    "Year": 2012,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.3
+  },
+  {
+    "Year": 2012,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 16.9
+  },
+  {
+    "Year": 2012,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2012,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.5
+  },
+  {
+    "Year": 2012,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 11.9
+  },
+  {
+    "Year": 2012,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 14.2
+  },
+  {
+    "Year": 2012,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 16
+  },
+  {
+    "Year": 2012,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 14.4
+  },
+  {
+    "Year": 2013,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.3
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 19.5
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 20.9
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 12.8
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 34.4
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 23.1
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 30.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.9
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.9
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 15.2
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14.6
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 9
+  },
+  {
+    "Year": 2013,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.6
+  },
+  {
+    "Year": 2013,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 26.1
+  },
+  {
+    "Year": 2013,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 23.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 42.1
+  },
+  {
+    "Year": 2013,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 38.9
+  },
+  {
+    "Year": 2013,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 34.8
+  },
+  {
+    "Year": 2013,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.8
+  },
+  {
+    "Year": 2013,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14.1
+  },
+  {
+    "Year": 2013,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 16.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 12.1
+  },
+  {
+    "Year": 2013,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.1
+  },
+  {
+    "Year": 2013,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 12.4
+  },
+  {
+    "Year": 2013,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 13.6
+  },
+  {
+    "Year": 2013,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 15.7
+  },
+  {
+    "Year": 2013,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 14.1
+  },
+  {
+    "Year": 2014,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 14
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 19.2
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 19.9
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 12.4
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 35.3
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 24.4
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 9.7
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 15.3
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.9
+  },
+  {
+    "Year": 2014,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 9.3
+  },
+  {
+    "Year": 2014,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2014,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 26.1
+  },
+  {
+    "Year": 2014,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22.4
+  },
+  {
+    "Year": 2014,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.8
+  },
+  {
+    "Year": 2014,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 39.5
+  },
+  {
+    "Year": 2014,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 37.4
+  },
+  {
+    "Year": 2014,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 33.7
+  },
+  {
+    "Year": 2014,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 6.3
+  },
+  {
+    "Year": 2014,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.8
+  },
+  {
+    "Year": 2014,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 13.5
+  },
+  {
+    "Year": 2014,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 15.7
+  },
+  {
+    "Year": 2014,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 11.8
+  },
+  {
+    "Year": 2014,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 17.1
+  },
+  {
+    "Year": 2014,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 13.3
+  },
+  {
+    "Year": 2014,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 13.8
+  },
+  {
+    "Year": 2014,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 15.1
+  },
+  {
+    "Year": 2014,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 13.1
+  },
+  {
+    "Year": 2015,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 16.6
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 16.9
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 10.2
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 30.3
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 22.4
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 26.2
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.9
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 8.5
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 14.7
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.3
+  },
+  {
+    "Year": 2015,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 9.2
+  },
+  {
+    "Year": 2015,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10
+  },
+  {
+    "Year": 2015,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 21.5
+  },
+  {
+    "Year": 2015,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 19.1
+  },
+  {
+    "Year": 2015,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.3
+  },
+  {
+    "Year": 2015,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 38.3
+  },
+  {
+    "Year": 2015,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 36.8
+  },
+  {
+    "Year": 2015,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 32.8
+  },
+  {
+    "Year": 2015,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.8
+  },
+  {
+    "Year": 2015,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.3
+  },
+  {
+    "Year": 2015,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12.2
+  },
+  {
+    "Year": 2015,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 14.1
+  },
+  {
+    "Year": 2015,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 10.4
+  },
+  {
+    "Year": 2015,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15.4
+  },
+  {
+    "Year": 2015,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 11.9
+  },
+  {
+    "Year": 2015,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 12.8
+  },
+  {
+    "Year": 2015,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 13.3
+  },
+  {
+    "Year": 2015,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 12.1
+  },
+  {
+    "Year": 2016,
+    "Category": "All households",
+    "SubCategory": "",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 12.3
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 16.5
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "With children < 6 yrs",
+    "Food insecure-Percent": 16.6
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Married-couple families",
+    "Food insecure-Percent": 9.9
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Female head, no spouse",
+    "Food insecure-Percent": 31.6
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Male head, no spouse",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With children < 18 yrs",
+    "SubSubCategory": "Other household with child",
+    "Food insecure-Percent": 22.2
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "More than one adult",
+    "Food insecure-Percent": 8
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Women living alone",
+    "Food insecure-Percent": 13.9
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With no children < 18 yrs",
+    "SubSubCategory": "Men living alone",
+    "Food insecure-Percent": 14.3
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 7.8
+  },
+  {
+    "Year": 2016,
+    "Category": "Household composition",
+    "SubCategory": "With elderly",
+    "SubSubCategory": "Elderly living alone",
+    "Food insecure-Percent": 8.9
+  },
+  {
+    "Year": 2016,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "White non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 9.3
+  },
+  {
+    "Year": 2016,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Black non-Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 22.5
+  },
+  {
+    "Year": 2016,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Hispanic",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 18.5
+  },
+  {
+    "Year": 2016,
+    "Category": "Race/ethnicity of households",
+    "SubCategory": "Other",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2016,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.00",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 38.3
+  },
+  {
+    "Year": 2016,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.30",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 35.7
+  },
+  {
+    "Year": 2016,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Under 1.85",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 31.6
+  },
+  {
+    "Year": 2016,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "1.85 and over",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 5.6
+  },
+  {
+    "Year": 2016,
+    "Category": "Household income-to-poverty ratio",
+    "SubCategory": "Income unknown",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 8.8
+  },
+  {
+    "Year": 2016,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 11.8
+  },
+  {
+    "Year": 2016,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "In principal cities",
+    "Food insecure-Percent": 14.2
+  },
+  {
+    "Year": 2016,
+    "Category": "Area of residence",
+    "SubCategory": "Inside metropolitan area",
+    "SubSubCategory": "Not in principal cities",
+    "Food insecure-Percent": 9.5
+  },
+  {
+    "Year": 2016,
+    "Category": "Area of residence",
+    "SubCategory": "Outside metropolitan area",
+    "SubSubCategory": "",
+    "Food insecure-Percent": 15
+  },
+  {
+    "Year": 2016,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Northeast",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2016,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "Midwest",
+    "Food insecure-Percent": 12.2
+  },
+  {
+    "Year": 2016,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "South",
+    "Food insecure-Percent": 13.5
+  },
+  {
+    "Year": 2016,
+    "Category": "Census geographic region",
+    "SubCategory": "",
+    "SubSubCategory": "West",
+    "Food insecure-Percent": 11.5
+  }
+]

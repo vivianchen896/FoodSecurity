@@ -1,0 +1,474 @@
+[
+  {
+    "key": "White non-Hispanic",
+    "values":
+    [
+      {
+        "Year": "2001",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 7.6
+      },
+      {
+        "Year": "2002",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 8
+      },
+      {
+        "Year": "2003",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 7.8
+      },
+      {
+        "Year": "2004",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 8.6
+      },
+      {
+        "Year": "2005",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 8.2
+      },
+      {
+        "Year": "2006",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 7.8
+      },
+      {
+        "Year": "2007",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 7.9
+      },
+      {
+        "Year": "2008",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 10.7
+      },
+      {
+        "Year": "2009",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 11
+      },
+      {
+        "Year": "2010",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 10.8
+      },
+      {
+        "Year": "2011",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 11.4
+      },
+      {
+        "Year": "2012",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 11.2
+      },
+      {
+        "Year": "2013",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 10.6
+      },
+      {
+        "Year": "2014",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 10.5
+      },
+      {
+        "Year": "2015",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 10
+      },
+      {
+        "Year": "2016",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "White non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 9.3
+      }
+    ]
+  },
+  {
+    "key": "Hispanic",
+    "values":
+    [
+      {
+        "Year": "2001",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 21.8
+      },
+      {
+        "Year": "2002",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 21.7
+      },
+      {
+        "Year": "2003",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22.3
+      },
+      {
+        "Year": "2004",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 21.7
+      },
+      {
+        "Year": "2005",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 17.9
+      },
+      {
+        "Year": "2006",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 19.5
+      },
+      {
+        "Year": "2007",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 20.1
+      },
+      {
+        "Year": "2008",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 26.9
+      },
+      {
+        "Year": "2009",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 26.9
+      },
+      {
+        "Year": "2010",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 26.2
+      },
+      {
+        "Year": "2011",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 26.2
+      },
+      {
+        "Year": "2012",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 23.3
+      },
+      {
+        "Year": "2013",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 23.7
+      },
+      {
+        "Year": "2014",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22.4
+      },
+      {
+        "Year": "2015",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 19.1
+      },
+      {
+        "Year": "2016",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 18.5
+      }
+    ]
+  },
+  {
+    "key": "Black non-Hispanic",
+    "values":
+    [
+      {
+        "Year": "2001",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 21.3
+      },
+      {
+        "Year": "2002",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22
+      },
+      {
+        "Year": "2003",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22.1
+      },
+      {
+        "Year": "2004",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 23.7
+      },
+      {
+        "Year": "2005",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22.4
+      },
+      {
+        "Year": "2006",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 21.8
+      },
+      {
+        "Year": "2007",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22.2
+      },
+      {
+        "Year": "2008",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 25.7
+      },
+      {
+        "Year": "2009",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 24.9
+      },
+      {
+        "Year": "2010",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 25.1
+      },
+      {
+        "Year": "2011",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 25.1
+      },
+      {
+        "Year": "2012",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 24.6
+      },
+      {
+        "Year": "2013",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 26.1
+      },
+      {
+        "Year": "2014",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 26.1
+      },
+      {
+        "Year": "2015",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 21.5
+      },
+      {
+        "Year": "2016",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Black non-Hispanic",
+        "SubSubCategory": "",
+        "insecurePercent": 22.5
+      }
+    ]
+  },
+  {
+    "key": "Other",
+    "values":
+    [
+      {
+        "Year": "2001",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 10.3
+      },
+      {
+        "Year": "2002",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 9.8
+      },
+      {
+        "Year": "2003",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 10.8
+      },
+      {
+        "Year": "2004",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 11.1
+      },
+      {
+        "Year": "2005",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 9.6
+      },
+      {
+        "Year": "2006",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 9.6
+      },
+      {
+        "Year": "2007",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 9.6
+      },
+      {
+        "Year": "2008",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 13.7
+      },
+      {
+        "Year": "2009",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 13.2
+      },
+      {
+        "Year": "2010",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 12.7
+      },
+      {
+        "Year": "2011",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 12.7
+      },
+      {
+        "Year": "2012",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 13
+      },
+      {
+        "Year": "2013",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 11.7
+      },
+      {
+        "Year": "2014",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 11.8
+      },
+      {
+        "Year": "2015",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 10.3
+      },
+      {
+        "Year": "2016",
+        "Category": "Race/ethnicity of households",
+        "SubCategory": "Other",
+        "SubSubCategory": "",
+        "insecurePercent": 10.7
+      }
+    ]
+  }
+]
