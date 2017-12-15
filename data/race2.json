@@ -1,0 +1,322 @@
+[
+  {
+    "Year": 2001,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 7.6
+  },
+  {
+    "Year": 2001,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 21.3
+  },
+  {
+    "Year": 2001,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 21.8
+  },
+  {
+    "Year": 2001,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 10.3
+  },
+  {
+    "Year": 2002,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 8
+  },
+  {
+    "Year": 2002,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 22
+  },
+  {
+    "Year": 2002,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2002,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 9.8
+  },
+  {
+    "Year": 2003,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 7.8
+  },
+  {
+    "Year": 2003,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 22.1
+  },
+  {
+    "Year": 2003,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 22.3
+  },
+  {
+    "Year": 2003,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2004,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 8.6
+  },
+  {
+    "Year": 2004,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 23.7
+  },
+  {
+    "Year": 2004,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 21.7
+  },
+  {
+    "Year": 2004,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 11.1
+  },
+  {
+    "Year": 2005,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 8.2
+  },
+  {
+    "Year": 2005,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 22.4
+  },
+  {
+    "Year": 2005,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 17.9
+  },
+  {
+    "Year": 2005,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2006,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 7.8
+  },
+  {
+    "Year": 2006,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 21.8
+  },
+  {
+    "Year": 2006,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 19.5
+  },
+  {
+    "Year": 2006,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2007,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 7.9
+  },
+  {
+    "Year": 2007,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 22.2
+  },
+  {
+    "Year": 2007,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 20.1
+  },
+  {
+    "Year": 2007,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 9.6
+  },
+  {
+    "Year": 2008,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 10.7
+  },
+  {
+    "Year": 2008,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 25.7
+  },
+  {
+    "Year": 2008,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 26.9
+  },
+  {
+    "Year": 2008,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 13.7
+  },
+  {
+    "Year": 2009,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 11
+  },
+  {
+    "Year": 2009,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 24.9
+  },
+  {
+    "Year": 2009,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 26.9
+  },
+  {
+    "Year": 2009,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 13.2
+  },
+  {
+    "Year": 2010,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 10.8
+  },
+  {
+    "Year": 2010,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 25.1
+  },
+  {
+    "Year": 2010,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 26.2
+  },
+  {
+    "Year": 2010,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2011,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 11.4
+  },
+  {
+    "Year": 2011,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 25.1
+  },
+  {
+    "Year": 2011,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 26.2
+  },
+  {
+    "Year": 2011,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 12.7
+  },
+  {
+    "Year": 2012,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 11.2
+  },
+  {
+    "Year": 2012,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 24.6
+  },
+  {
+    "Year": 2012,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 23.3
+  },
+  {
+    "Year": 2012,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 13
+  },
+  {
+    "Year": 2013,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 10.6
+  },
+  {
+    "Year": 2013,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 26.1
+  },
+  {
+    "Year": 2013,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 23.7
+  },
+  {
+    "Year": 2013,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 11.7
+  },
+  {
+    "Year": 2014,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 10.5
+  },
+  {
+    "Year": 2014,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 26.1
+  },
+  {
+    "Year": 2014,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 22.4
+  },
+  {
+    "Year": 2014,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 11.8
+  },
+  {
+    "Year": 2015,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 10
+  },
+  {
+    "Year": 2015,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 21.5
+  },
+  {
+    "Year": 2015,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 19.1
+  },
+  {
+    "Year": 2015,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 10.3
+  },
+  {
+    "Year": 2016,
+    "SubCategory": "White non-Hispanic",
+    "Food insecure-Percent": 9.3
+  },
+  {
+    "Year": 2016,
+    "SubCategory": "Black non-Hispanic",
+    "Food insecure-Percent": 22.5
+  },
+  {
+    "Year": 2016,
+    "SubCategory": "Hispanic",
+    "Food insecure-Percent": 18.5
+  },
+  {
+    "Year": 2016,
+    "SubCategory": "Other",
+    "Food insecure-Percent": 10.7
+  }
+]

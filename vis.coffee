@@ -4,19 +4,23 @@
 # to all the transition functions
 # ---
 paddingBottom = 20
-width = 880
-height = 600 - paddingBottom
+width = 650
+height = 500 - paddingBottom
 duration = 750
+state = "race"
 
-# the domain of our scales will be set
-# once we have loaded the data
+# given input of time, will be scaled to width
+# setter function line scale() can be chained, return the setter itself
 x = d3.time.scale()
-  .range([0, width])
+  .range([0, width])  #sets the scale's output range to the specified array of values
 
+# given input of value, will be scaled to height
 y = d3.scale.linear()
   .range([height, 0])
 
-color = d3.scale.category10()
+# set colors
+color = d3.scale.ordinal()
+    .range(["#ff7f0e", "#ffbb78", "#aec7e8", "#1f77b4"]);
 
 # area generator to create the
 # polygons that make up the
@@ -43,9 +47,14 @@ stack = d3.layout.stack()
 # axis to simplify the construction of
 # the day lines
 xAxis = d3.svg.axis()
-  .scale(x)
+  .scale(x)      # scale of time to the actual dimension; has to set the scale from linear to Time object
   .tickSize(-height)
   .tickFormat(d3.time.format('%Y'))
+  # .ticks(16)
+
+yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("right");
 
 # we will populate this variable with our
 # data array, once its been loaded
@@ -54,7 +63,7 @@ data = null
 # Create the blank SVG the visualization will live in.
 svg = d3.select("#vis").append("svg")
   .attr("width", width)
-  .attr("height", height + paddingBottom)
+  .attr("height", height + paddingBottom )
 
 # ---
 # Called when the chart buttons are clicked.
@@ -76,39 +85,16 @@ transitionTo = (name) ->
 # elements that will hold our chart elements.
 # ---
 start = () ->
+
   # first, lets setup our x scale domain
   # this assumes that the dates in our data are in order
   minYear = d3.min(data, (d) -> d.values[0].Year)
   maxYear = d3.max(data, (d) -> d.values[d.values.length - 1].Year)
   x.domain([minYear, maxYear])
 
-  # D3's axis functionality usually works great
-  # however, I was having some aesthetic issues
-  # with the tick placement
-  # here I extract out every other day - and
-  # manually specify these values as the tick
-  # values
-  years = data[0].values.map((v) -> v.Year)
-  index = 0
 
-  # years = years.filter (d) ->
-  #   index += 1
-  #   (index % 2) == 0
-
-  xAxis.tickValues(years)
-
-  # the axis lines will go behind
-  # the rest of the display, so create
-  # it first
-  svg.append("g")
-    .attr("class", "x axis")
-    .attr("transform", "translate(0," + height + ")")
-    .call(xAxis)
-
-  # I want the streamgraph to emanate from the
+  #  streamgraph to emanate from the
   # middle of the chart.
-  # we can set the area's y0 and y1 values to
-  # constants to achieve this effect.
   area.y0(height / 2)
     .y1(height / 2)
 
@@ -137,7 +123,22 @@ start = () ->
   createLegend()
 
   # default to streamgraph display
-  streamgraph()
+  stackedAreas()
+
+  svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis)
+
+  svg.append("g")
+    .attr("class", "Yaxis")
+    .attr("transform", "translate(" + 1 + ",0)")
+    .style({ 'stroke': 'black', 'fill': 'none', 'stroke-width': '1px'})
+    .attr("id", "yaxis")
+    .call(yAxis);
+
+
+
 
 # ---
 # Code to transition to streamgraph.
@@ -160,8 +161,8 @@ streamgraph = () ->
 
   # reset our y domain and range so that it
   # accommodates the highest value + offset
-  y.domain([0, d3.max(data[0].values.map((d) -> d.insecurePercent0 + d.insecurePercent))])
-    .range([height, 0])
+  y.domain([-10, 90])
+    .range([height, 10])
 
   # the line will be placed along the
   # baseline of the streams, but will
@@ -201,6 +202,10 @@ streamgraph = () ->
     .style("stroke-opacity", 1e-6)
     #.attr("d", (d) -> console.log d.values)
     .attr("d", (d) -> line(d.values))
+  #
+  # svg.select("#yaxis").style("opacity", 0);
+
+
 
 
 # ---
@@ -222,8 +227,10 @@ stackedAreas = () ->
   # the rest of this is the same as the streamgraph - but
   # because the count0 values are now set for stacking,
   # we will get a Stacked Area chart.
-  y.domain([0, d3.max(data[0].values.map((d) -> d.insecurePercent0 + d.insecurePercent))])
-    .range([height, 0])
+  # y.domain([0, d3.max(data[0].values.map((d) -> d.insecurePercent0 + d.insecurePercent))])
+  #   .range([height, 150])
+  y.domain([0, 100])
+    .range([height, 10])
 
   line.y((d) -> y(d.insecurePercent0))
 
@@ -258,12 +265,13 @@ areas = () ->
     .attr("d", (d) -> line(d.values))
     .style("stroke-opacity", 1e-6)
 
-
   # as there is no stacking in this chart, the maximum
   # value of the input domain is simply the maximum count value,
   # which we precomputed in the display function
-  y.domain([0, d3.max(data.map((d) -> d.maxCount))])
-    .range([height, 0])
+  # y.domain([0, d3.max(data.map((d) -> d.maxCount))])
+  #   .range([height, 150])
+  y.domain([0, 100])
+    .range([height, 10])
 
   # the baseline of this chart will always
   # be at the bottom of the display, so we
@@ -290,6 +298,7 @@ areas = () ->
   # t.select("path.line")
   #   .style("stroke-opacity", 1)
   #   .attr("d", (d) -> line(d.values))
+
 
 # ---
 # Called on legend mouse over. Shows the legend
@@ -360,9 +369,12 @@ createLegend = () ->
 # visualization framework.
 # ---
 display = (error, rawData) ->
-  # a quick way to manually select which calls to display.
-  # feel free to pick other keys and explore the less frequent call types.
-  filterer = {"White non-Hispanic": 1, "Black non-Hispanic": 1, "Hispanic": 1, "Other": 1}
+  # UGHHHH not working
+  if state == "race"
+    filterer = {"White non-Hispanic": 1, "Black non-Hispanic": 1, "Hispanic": 1, "Other": 1}
+  else
+    filterer = {"West": 1, "Midwest":1, "Northeast":1, "South":1}
+
   data = rawData.filter((d) -> filterer[d.key] == 1)
 
   # a parser to convert our date string into a JS time object.
@@ -380,11 +392,9 @@ display = (error, rawData) ->
 
   data.sort((a,b) -> b.maxCount - a.maxCount)
 
-  console.log(data)
-
   start()
 
-# Document is ready, lets go!
+# Document is ready
 $ ->
   # code to trigger a transition when one of the chart
   # buttons is clicked
@@ -392,6 +402,14 @@ $ ->
     d3.event.preventDefault()
     id = d3.select(this).attr("id")
     transitionTo(id)
+    if id == "stream"
+      d3.select("#yaxis").style("opacity", 0);
+    else
+      d3.select("#yaxis").style("opacity", 1);
 
-  # load the data and call 'display'
+  d3.selectAll(".change").on "click", (d) ->
+    id = d3.select(this).attr("id")
+    state = id
+    d3.json("data/by_race.json", display)
+    
   d3.json("data/by_race.json", display)

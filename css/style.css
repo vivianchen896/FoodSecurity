@@ -27,6 +27,12 @@ svg {
 
 .axis text {
   font: 10px sans-serif;
+  font-weight: bold;
+}
+
+.Yaxis text {
+  font: 9px sans-serif;
+  font-weight: lighter;
 }
 
 .x.axis line {
@@ -51,5 +57,3 @@ footer p {
   z-index: 100000;
   overflow: visible;
 }
-
-
